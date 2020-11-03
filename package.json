@@ -1,0 +1,25 @@
+{
+  "name": "node-dlna",
+  "version": "0.0.1",
+  "description": "DLNA for node",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hongxuWei/node-dlna.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hongxuWei/node-dlna/issues"
+  },
+  "homepage": "https://github.com/hongxuWei/node-dlna#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-ssdp": "^4.0.0",
+    "xml2js": "^0.4.23"
+  }
+}
